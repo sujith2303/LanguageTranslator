@@ -7,3 +7,12 @@ Takes in an image of text, process it, and gives an audio output of the text in 
 You can  simply use pip to install the latest version of pytesseract.
 
 `pip install pytesseract`
+
+### Other Dependencies
+Copy the below commands and paste in your command prompt to download the necessities.
+
+`pip install opencv-python`  
+
+`pip install pyttsx3`
+
+`pip install googletrans`
