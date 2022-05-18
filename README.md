@@ -23,5 +23,6 @@ Copy the below commands and paste in your command prompt to download the necessi
 
 1. After Downloading all the dependencies, run main.py. You can do it from your ide or if you want it to run from command prompt run the below code
 2. ***`py main.py`*** or ***`python -m main.py`***
+3. When you run main you need to choose an option of translating from an image or from webcam.
 
 # Working
