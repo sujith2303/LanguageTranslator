@@ -1,5 +1,3 @@
-import string
-
 import HandWriting_final_utils
 import cv2
 import numpy as np
