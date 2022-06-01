@@ -49,9 +49,9 @@ import HandWriting_final as hf
 </pre>
 2. Creating the variables
 <pre>
-path_to_image = r''   # give the path to image in ''
-path_to_handwriting = r''  # give the path to handwriting in ''
-path_to_tesseract = r''   # # give the path to tesseract in ''
+path_to_image = r''             # give the path to image in ''
+path_to_handwriting = r''       # give the path to handwriting in ''
+path_to_tesseract = r''         # give the path to tesseract in ''
 </pre>
 3. Creating an instance of object
 <pre>
