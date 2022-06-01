@@ -29,11 +29,8 @@ Copy the below commands and paste in your command prompt to download the necessi
 
 1. Just writing 2 lines of code helps you to convert the hand writing of your wish.
 2. The main step is to create a folder and place all the images of alphabets with the same name of it (i.e., save image of a with name a and image of numbers with the same number and any special symbol with same symbol name.
-
-## Note:-
-** Please make sure you delete the alphabets_dictionary.txt if you add any new photos in the handwriting. It is very important because the file need to be replaced with the updated new handwriting file. **
-4. Sample of the folder is shown above
-5. Add and empty white image and save it with name '.png or '.jpg . It is used for whitespace character.
+3. Sample of the folder is shown above
+4. Add and empty white image and save it with name '.png or '.jpg . It is used for whitespace character.
 
 ## Coding part:-
 
@@ -68,3 +65,7 @@ obj = hf.HandWritingConverter(image_original,height,width,path_to_handwriting,pa
 obj = hf.HandWritingConverter(image_original,height,width,path_to_handwriting1,path_to_tesseract)
 obj = hf.HandWritingConverter(image_original,height,width,path_to_handwriting2,path_to_tesseract)
 </pre>
+
+## Note:-
+
+* Please make sure you delete the alphabets_dictionary.txt if you add any new photos in the handwriting. It is very important because the file need to be replaced with the updated new handwriting file. 
